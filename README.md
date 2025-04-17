@@ -15,7 +15,7 @@ A multi-agent AI application that routes user requests to specialized helpdesk a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/helpdesk-agents-suite.git
+git clone https://github.com/donthv/helpdesk-agents-suite.git
 cd helpdesk-agents-suite
 
 # Create a virtual environment
